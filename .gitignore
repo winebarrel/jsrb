@@ -1,0 +1,5 @@
+/jsrt
+*.gz
+*.sha1sum
+*.ndjson
+*.jsonl
